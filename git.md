@@ -21,3 +21,4 @@
 ---
     git remote add origin <address>
     git push origin <branch>
+    git push -u origin <branch>
