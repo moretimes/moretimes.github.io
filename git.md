@@ -18,3 +18,6 @@
 	git checkout <name>
 	git merge
 	git branch -d <name>
+---
+    git remote add origin <address>
+    git push origin <branch>
